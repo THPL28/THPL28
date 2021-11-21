@@ -2,10 +2,10 @@
 
  <strong >Estou no último ano de Análise e Desenvolvimento de Sistemas e irei mostrar um pouco sobre minhas SKILLS
  <br>
-<div align="center">
+<div align="left">
   <a href="https://github.com/THPL28">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=THPL28&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THPL28&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=THPL28&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THPL28&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <h2>Linguagens estudadas</h2>
 <div style="display: inline_block"><br>
