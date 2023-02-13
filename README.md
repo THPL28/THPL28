@@ -1,6 +1,6 @@
 # <h1>Olá seja Bem vindo! Me chamo Tiago.
 
- <strong >Estou no último ano de Análise e Desenvolvimento de Sistemas e irei mostrar um pouco sobre minhas SKILLS
+ <strong >Formado Análise e Desenvolvimento de Sistemas 
  <br>
 <div align="left">
   <a href="https://github.com/THPL28">
