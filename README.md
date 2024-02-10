@@ -1,6 +1,7 @@
 # <h1>Olá seja Bem vindo! Me chamo Tiago.
 
  <strong >Formação: Formado Análise e Desenvolvimento de Sistemas 
+  <br>
  Educação Atual: Estudante de Ciência de Dados na Universidade UNIVESP
  <br>
 <div align="left">
