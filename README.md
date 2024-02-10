@@ -1,6 +1,7 @@
 # <h1>Olá seja Bem vindo! Me chamo Tiago.
 
- <strong >Formado Análise e Desenvolvimento de Sistemas 
+ <strong >Formação: Formado Análise e Desenvolvimento de Sistemas 
+ Educação Atual: Estudante de Ciência de Dados na Universidade UNIVESP
  <br>
 <div align="left">
   <a href="https://github.com/THPL28">
