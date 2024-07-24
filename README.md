@@ -1,6 +1,7 @@
-# Bem-vindo ao meu GitHub! ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+# ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) Bem-vindo ao meu GitHub!
 
-👋 Olá! Eu sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e automação. Trabalho na área de TI, especificamente com suporte e desenvolvimento, e estou sempre em busca de aprender e aplicar novas tecnologias para resolver problemas do mundo real.
+
+👋 Olá! Eu sou Tiago Looze, um desenvolvedor apaixonado por tecnologia e automação. Trabalho na área de TI, especificamente com suporte e desenvolvimento, e estou sempre em busca de aprender e aplicar novas tecnologias para resolver problemas do mundo real.
 
 ## 📜 Sobre mim
 
