@@ -1,4 +1,5 @@
-## ![Robot Logo](https://cdn-icons-png.flaticon.com/512/4712/4712024.png) Bem-vindo ao meu GitHub!
+# Bem-vindo ao meu GitHub!
+![Robot Logo](https://cdn-icons-png.flaticon.com/512/4712/4712024.png)
 
 
 👋 Olá! Eu sou Tiago Looze, um desenvolvedor apaixonado por tecnologia e automação. Trabalho na área de TI, especificamente com suporte e desenvolvimento, e estou sempre em busca de aprender e aplicar novas tecnologias para resolver problemas do mundo real.
