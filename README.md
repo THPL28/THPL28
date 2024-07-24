@@ -14,8 +14,8 @@
 
 ## 💡 Habilidades Técnicas
 
-- **Linguagens de Programação**: Python, [adicione outras linguagens que você conhece]
-- **Frameworks e Ferramentas**: FastAPI, OpenCV, [adicione outras ferramentas e frameworks relevantes]
+- **Linguagens de Programação**: Python,Php,Javascript,Autoit.
+- **Frameworks e Ferramentas**: FastAPI, OpenCV, Selenium,Numpy,Pandas.
 - **Automação e RPA**: Especialização em automação de processos robóticos utilizando Python
 - **Desenvolvimento de APIs**: Criação de APIs eficientes e escaláveis com FastAPI
 
@@ -23,8 +23,9 @@
 
 Aqui estão alguns dos meus projetos em destaque:
 
-- **[Nome do Projeto 1]**: [Descrição breve do projeto]
-- **[Nome do Projeto 2]**: [Descrição breve do projeto]
+- **Projeto de Visão Computacional**: Desenvolvimento de um sistema de visão computacional orientado a objetos utilizando Python e OpenCV. O projeto inclui funcionalidades de detecção e reconhecimento de objetos, análise de imagens em tempo real e integração com uma API criada com FastAPI. Esse sistema tem como objetivo automatizar tarefas de análise de imagem, como a identificação de padrões, contagem de objetos e reconhecimento facial, aplicáveis em diversos cenários como segurança, monitoramento e controle de qualidade.
+
+
 
 ## 🎯 Objetivos Pessoais
 
@@ -34,9 +35,8 @@ Aqui estão alguns dos meus projetos em destaque:
 
 ## 📫 Contato
 
-- 📧 Email: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
-- 🐦 Twitter: [@seuTwitter](https://twitter.com/seuTwitter)
-- 💼 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seuLinkedin)
+- 📧 Email: [seuemail@exemplo.com](mailto:thpldevweb@gmail.com)
+- 💼 LinkedIn: [seuemail@exemplo.com](https://www.linkedin.com/in/tiago-looze-b1a0001b7/)
 
 ## 📊 Estatísticas do GitHub
 
@@ -47,4 +47,4 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se tive
 
 ---
 
-[Seu Nome]
+Tiago Looze
