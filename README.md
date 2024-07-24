@@ -35,8 +35,8 @@ Aqui estão alguns dos meus projetos em destaque:
 
 ## 📫 Contato
 
-- 📧 Email: [seuemail@exemplo.com](mailto:thpldevweb@gmail.com)
-- 💼 LinkedIn: [seuemail@exemplo.com](https://www.linkedin.com/in/tiago-looze-b1a0001b7/)
+- 📧 Email: [entre em contato](mailto:thpldevweb@gmail.com)
+- 💼 LinkedIn: [saiba mais sobre mim](https://www.linkedin.com/in/tiago-looze-b1a0001b7/)
 
 ## 📊 Estatísticas do GitHub
 
