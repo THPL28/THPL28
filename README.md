@@ -1,7 +1,12 @@
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/4712/4712024.png" alt="Robot Logo" width="50"/>  Bem-vindo ao meu GitHub!
 
-👋 Olá! Eu sou Tiago Looze, um desenvolvedor apaixonado por tecnologia e automação. Trabalho na área de TI, especificamente com suporte e desenvolvimento, e estou sempre em busca de aprender e aplicar novas tecnologias para resolver problemas do mundo real.
+👋 Olá! 
+Meu nome é Tiago Looze!
+
+Sou um desenvolvedor apaixonado por Python, com especialização em automação RPA. Atualmente, estou cursando Ciência de Dados na UNIVESP, onde estou aprofundando meu conhecimento em análise e desenvolvimento de sistemas.
+Tenho experiência no desenvolvimento de soluções de automação para otimizar processos, além de trabalhar com a criação de APIs e projetos orientados a objetos. 
+Meu objetivo é sempre entregar projetos de alta qualidade, utilizando as melhores práticas e tecnologias.
 
 ## 📜 Sobre mim
 
