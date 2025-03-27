@@ -1,7 +1,3 @@
-Segue uma versão aprimorada do seu README, incorporando as informações atualizadas (4º período na UNIVESP, experiência em desenvolvimento web, automação, etc.) e destacando seus repositórios em evidência:
-
----
-
 ## <img src="https://cdn-icons-png.flaticon.com/512/4712/4712024.png" alt="Robot Logo" width="50"/> Bem-vindo ao meu GitHub!
 
 Olá! Meu nome é **Tiago Looze** e sou apaixonado por **Python** e automação RPA. Estou atualmente no **4º período de Ciência de Dados** na **UNIVESP**, onde aprofundo meu conhecimento em análise e desenvolvimento de sistemas.
