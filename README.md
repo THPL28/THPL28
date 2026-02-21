@@ -1,6 +1,6 @@
 ## <img src="https://cdn-icons-png.flaticon.com/512/4712/4712024.png" alt="Robot Logo" width="50"/> Bem-vindo ao meu GitHub!
 
-Olá! Meu nome é **Tiago Looze** e sou apaixonado por **Python** e automação RPA. Estou atualmente no **4º período de Ciência de Dados** na **UNIVESP**, onde aprofundo meu conhecimento em análise e desenvolvimento de sistemas.
+Olá! Meu nome é **Tiago Looze** e sou apaixonado por **Python** e automação RPA. Estou atualmente no **6º período de Ciência de Dados** na **UNIVESP**, onde aprofundo meu conhecimento em análise e desenvolvimento de sistemas.
 
 Tenho experiência na criação de soluções de automação para otimizar processos, além de trabalhar com desenvolvimento **web** (Django, FastAPI, etc.) e **APIs**. Meu objetivo é sempre entregar projetos de alta qualidade, utilizando as melhores práticas e tecnologias.
 
