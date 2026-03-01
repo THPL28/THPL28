@@ -1,91 +1,129 @@
-## <img src="https://cdn-icons-png.flaticon.com/512/4712/4712024.png" alt="Robot Logo" width="50"/> Bem-vindo ao meu GitHub!
+🚀 Tiago Looze — Data & Machine Learning Engineer
 
-Olá! Meu nome é **Tiago Looze** e sou apaixonado por **Python** e automação RPA. Estou atualmente no **6º período de Ciência de Dados** na **UNIVESP**, onde aprofundo meu conhecimento em análise e desenvolvimento de sistemas.
+Construo sistemas inteligentes escaláveis, combinando engenharia de dados, machine learning e APIs de alta performance.
 
-Tenho experiência na criação de soluções de automação para otimizar processos, além de trabalhar com desenvolvimento **web** (Django, FastAPI, etc.) e **APIs**. Meu objetivo é sempre entregar projetos de alta qualidade, utilizando as melhores práticas e tecnologias.
+🎓 Graduando em Ciência de Dados pela Universidade Virtual do Estado de São Paulo (UNIVESP)
+💡 Especializado em Python, modelagem estatística e automação orientada a dados
 
----
+🧠 Foco Técnico
 
-## 📜 Sobre mim
+Machine Learning aplicado a problemas reais
 
-- 🎓 **Formação Acadêmica**  
-  - Técnico em Análise e Desenvolvimento de Sistemas  
-  - Atualmente cursando o **4º período** de Ciência de Dados na UNIVESP
+Engenharia de Dados (pipelines, validação, consistência)
 
-- 💼 **Experiência Profissional**  
-  - **Suporte em TI**: Ofereço suporte via WhatsApp, ajudando usuários e resolvendo problemas técnicos.  
-  - **Desenvolvedor e Revisor de Código**: Especializado em **RPA** com Python, faço revisões de implementações e garanto a qualidade do código.
+APIs performáticas com FastAPI
 
-- 🌐 **Desenvolvimento Web e Visão Computacional**  
-  - Trabalho em projetos com **Django**, **FastAPI** e **OpenCV** para criar soluções completas, incluindo APIs e sistemas de visão computacional.
+Automação inteligente com arquitetura robusta
 
----
+Visão Computacional integrada a sistemas web
 
-## 💡 Habilidades Técnicas
+Meu objetivo não é apenas desenvolver soluções —
+é criar sistemas reproduzíveis, escaláveis e orientados a métricas.
 
-- **Linguagens**:  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-  ![AutoIt](https://img.shields.io/badge/-AutoIt-1C3552?style=flat)
+🛠 Stack Principal
+🐍 Linguagens
 
-- **Frameworks e Ferramentas**:  
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
-  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
-  ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)  
-  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+Python (principal)
 
-- **Automação e RPA**:  
-  - Especialização em **Robotic Process Automation** com Python
+SQL
 
-- **Desenvolvimento de APIs**:  
-  - Criação de APIs eficientes e escaláveis com **FastAPI**
+JavaScript
 
----
+📊 Data & Machine Learning
 
-## 📂 Projetos em Destaque
+Pandas
 
-Aqui estão alguns dos meus repositórios que podem te interessar:
+NumPy
 
-1. **[pdf_extractor](https://github.com/tiagolooze/pdf_extractor)**  
-   - Projeto de extração de texto de arquivos PDF utilizando **PDF2** para processamento e **OCR** (Reconhecimento Óptico de Caracteres) para imagens escaneadas.
+Scikit-Learn
 
-2. **[rpa_project_g_actions](https://github.com/tiagolooze/rpa_project_g_actions)**  
-   - Projeto de RPA com **Selenium** e Page Object Model para automação de tarefas repetitivas. Inclui soluções para testes de interface e integração.
+XGBoost
 
-3. **[thpl_saas](https://github.com/tiagolooze/thpl_saas)**  
-   - Portfólio SaaS desenvolvido em **Django**, demonstrando minha experiência em desenvolvimento web. Criação de uma plataforma profissional para gerenciamento de serviços.
+OpenCV
 
-4. **[vision_computacional](https://github.com/tiagolooze/vision_computacional)**  
-   - Sistema de visão computacional orientado a objetos com **Python** e **OpenCV**, incluindo detecção de faces e reconhecimento de objetos em tempo real. Há também integração com **FastAPI** para expor funcionalidades via API.
+⚙️ Backend & Infraestrutura
 
----
+FastAPI
 
-## 🎯 Objetivos Pessoais
+Django
 
-- 📚 **Aprendizado Contínuo**: Dedicação constante para aprender novas tecnologias e aprimorar minhas habilidades.  
-- 🤖 **Exploração de IA**: Foco em aplicar técnicas de Inteligência Artificial e Machine Learning em projetos Python.  
-- 🌍 **Contribuição para a Comunidade**: Compartilhar conhecimento e colaborar em projetos **open-source**.
+PostgreSQL
 
----
+Docker
 
-## 📫 Contato
+🤖 Automação Inteligente
 
-- **Email**: [thpldevweb@gmail.com](mailto:thpldevweb@gmail.com)  
-- **LinkedIn**: [Visite meu perfil](https://www.linkedin.com/in/tiago-looze-b1a0001b7/)
+Selenium
 
----
+RPA com Python
 
-## 📊 Estatísticas do GitHub
+Arquitetura orientada a objetos
 
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical" />
-</div>
+Page Object Model
 
----
+📂 Projetos Estratégicos
+🔹 Sistemas de Machine Learning
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato caso tenha alguma dúvida ou interesse em colaborar em projetos. Estou sempre aberto a **novas oportunidades** e **desafios**!
+Desenvolvimento de modelos preditivos com:
 
-**Muito obrigado pela visita e boa exploração!**
+Feature engineering estruturado
+
+Validação estatística
+
+Análise de erro
+
+Pipeline reproduzível
+
+🔹 APIs Escaláveis
+
+Deploy de modelos e serviços com:
+
+FastAPI
+
+Documentação automática
+
+Estrutura preparada para produção
+
+Organização modular
+
+🔹 Visão Computacional
+
+Detecção e processamento de imagens em tempo real
+
+Integração com APIs
+
+Estrutura orientada a objetos
+
+📈 Em Evolução Constante
+
+Atualmente aprofundando em:
+
+MLOps
+
+Monitoramento de modelos
+
+Engenharia de dados em escala
+
+Modelagem probabilística
+
+Experimentação e A/B Testing
+
+🎯 Objetivo Profissional
+
+Atuar como:
+
+Machine Learning Engineer
+
+Data Engineer
+
+AI Engineer
+
+Construindo soluções que operem em larga escala, com impacto real e arquitetura sólida.
+
+📊 Estatísticas
+<div> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tiagolooze&show_icons=true&theme=radical" /> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolooze&layout=compact&theme=radical" /> </div>
+📫 Contato
+
+📎 LinkedIn: https://www.linkedin.com/in/tiago-looze-b1a0001b7/
+
+📧 Email: thpldevweb@gmail.com
