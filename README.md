@@ -1,127 +1,108 @@
-🚀 Tiago Looze — Data & Machine Learning Engineer
+# 🚀 Tiago Looze — Data & Machine Learning Engineer
 
-Construo sistemas inteligentes escaláveis, combinando engenharia de dados, machine learning e APIs de alta performance.
+Construo **sistemas inteligentes escaláveis**, combinando **engenharia de dados, machine learning e APIs de alta performance**.
 
-🎓 Graduando em Ciência de Dados pela Universidade Virtual do Estado de São Paulo (UNIVESP)
-💡 Especializado em Python, modelagem estatística e automação orientada a dados
+🎓 Graduando em **Ciência de Dados** pela Universidade Virtual do Estado de São Paulo (UNIVESP)  
+💡 Especializado em **Python**, modelagem estatística e automação orientada a dados  
 
-🧠 Foco Técnico
+---
 
-Machine Learning aplicado a problemas reais
+## 🧠 Foco Técnico
 
-Engenharia de Dados (pipelines, validação, consistência)
+- Machine Learning aplicado a problemas reais  
+- Engenharia de Dados (pipelines, validação e consistência)  
+- APIs performáticas com FastAPI  
+- Automação inteligente com arquitetura robusta  
+- Visão Computacional integrada a sistemas web  
 
-APIs performáticas com FastAPI
+Meu objetivo não é apenas desenvolver soluções —  
+é criar sistemas **reproduzíveis, escaláveis e orientados a métricas**.
 
-Automação inteligente com arquitetura robusta
+---
 
-Visão Computacional integrada a sistemas web
+## 🛠 Stack Principal
 
-Meu objetivo não é apenas desenvolver soluções —
-é criar sistemas reproduzíveis, escaláveis e orientados a métricas.
+### 🐍 Linguagens
+- Python (principal)
+- SQL
+- JavaScript
 
-🛠 Stack Principal
-🐍 Linguagens
+### 📊 Data & Machine Learning
+- Pandas  
+- NumPy  
+- Scikit-Learn  
+- XGBoost  
+- OpenCV  
 
-Python (principal)
+### ⚙️ Backend & Infraestrutura
+- FastAPI  
+- Django  
+- PostgreSQL  
+- Docker  
 
-SQL
+### 🤖 Automação Inteligente
+- Selenium  
+- RPA com Python  
+- Arquitetura Orientada a Objetos  
+- Page Object Model  
 
-JavaScript
+---
 
-📊 Data & Machine Learning
+## 📂 Projetos Estratégicos
 
-Pandas
-
-NumPy
-
-Scikit-Learn
-
-XGBoost
-
-OpenCV
-
-⚙️ Backend & Infraestrutura
-
-FastAPI
-
-Django
-
-PostgreSQL
-
-Docker
-
-🤖 Automação Inteligente
-
-Selenium
-
-RPA com Python
-
-Arquitetura orientada a objetos
-
-Page Object Model
-
-📂 Projetos Estratégicos
-🔹 Sistemas de Machine Learning
-
+### 🔹 Sistemas de Machine Learning
 Desenvolvimento de modelos preditivos com:
+- Feature engineering estruturado  
+- Validação estatística  
+- Análise de erro  
+- Pipeline reproduzível  
 
-Feature engineering estruturado
-
-Validação estatística
-
-Análise de erro
-
-Pipeline reproduzível
-
-🔹 APIs Escaláveis
-
+### 🔹 APIs Escaláveis
 Deploy de modelos e serviços com:
+- FastAPI  
+- Documentação automática  
+- Estrutura preparada para produção  
+- Organização modular  
 
-FastAPI
+### 🔹 Visão Computacional
+- Processamento de imagens em tempo real  
+- Integração com APIs  
+- Estrutura orientada a objetos  
 
-Documentação automática
+---
 
-Estrutura preparada para produção
-
-Organização modular
-
-🔹 Visão Computacional
-
-Detecção e processamento de imagens em tempo real
-
-Integração com APIs
-
-Estrutura orientada a objetos
-
-📈 Em Evolução Constante
+## 📈 Em Evolução Constante
 
 Atualmente aprofundando em:
 
-MLOps
+- MLOps  
+- Monitoramento de modelos  
+- Engenharia de dados em escala  
+- Modelagem probabilística  
+- Experimentação e A/B Testing  
 
-Monitoramento de modelos
+---
 
-Engenharia de dados em escala
-
-Modelagem probabilística
-
-Experimentação e A/B Testing
-
-🎯 Objetivo Profissional
+## 🎯 Objetivo Profissional
 
 Atuar como:
 
-Machine Learning Engineer
+- Machine Learning Engineer  
+- Data Engineer  
+- AI Engineer  
 
-Data Engineer
+Construindo soluções que operem em **larga escala, com impacto real e arquitetura sólida**.
 
-AI Engineer
+---
 
-Construindo soluções que operem em larga escala, com impacto real e arquitetura sólida.
+## 📊 Estatísticas
 
-📊 Estatísticas
-<div> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tiagolooze&show_icons=true&theme=radical" /> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolooze&layout=compact&theme=radical" /> </div>
+```html
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tiagolooze&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolooze&layout=compact&theme=radical" />
+</div>
+
 📫 Contato
 
 📎 LinkedIn: https://www.linkedin.com/in/tiago-looze-b1a0001b7/
